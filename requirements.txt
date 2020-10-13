@@ -1,0 +1,7 @@
+editdistance
+pymorphy2
+numpy
+sklearn
+pandas
+tqdm
+nltk
